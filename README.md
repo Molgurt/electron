@@ -46,5 +46,11 @@ Detailed explanation of components:
 7. immer 
   // TODO
 
+Prerequirements:
+  *npm i -g flow-bin // TODO might not be nesseccary after v0.1.0
+
+Setup: // TODO
+
+
 
 
